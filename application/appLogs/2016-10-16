@@ -1,0 +1,2178 @@
+2016-10-16T15:52:02-05:00 INFO (6): params for mail sent : array (
+  'controller' => 'mail-management',
+  'action' => 'send-mail',
+  'module' => 'default',
+  'recipients' => 
+  array (
+    0 => 'asdhasjhdg',
+    1 => 'saurabh.keshri321@gmail.com',
+    2 => '',
+  ),
+  'subject' => 'afsdjgfjhdsg',
+  'mail_body' => 'sdjfgjsdgjfsdhfg',
+  'auth_token' => '17bab3c39352a1b60c1246c13cb73232',
+  'user_id' => '1',
+  'email_id' => 'saurabh.keshri123@gmail.com',
+)
+2016-10-16T15:52:02-05:00 INFO (6): Mail Info obj = Application_Models_MailInfo::__set_state(array(
+   'mail_id' => NULL,
+   'source_id' => '1',
+   'parent_id' => NULL,
+   'mail_subject' => 'afsdjgfjhdsg',
+   'mail_body' => 'sdjfgjsdgjfsdhfg',
+   'sent_on' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+   'is_draft' => NULL,
+   'is_reply' => NULL,
+   'is_forward' => NULL,
+))
+2016-10-16T15:52:02-05:00 INFO (6): data to be inserted = array (
+  'mail_id' => NULL,
+  'source_id' => '1',
+  'parent_id' => NULL,
+  'mail_subject' => 'afsdjgfjhdsg',
+  'mail_body' => 'sdjfgjsdgjfsdhfg',
+  'sent_on' => '2016-10-16 15:52:02',
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+  'is_draft' => NULL,
+  'is_reply' => NULL,
+  'is_forward' => NULL,
+)
+2016-10-16T15:52:02-05:00 INFO (6): Mail Id = '3'
+2016-10-16T15:52:02-05:00 INFO (6): Recipients = NULL
+2016-10-16T15:55:40-05:00 INFO (6): params for mail sent : array (
+  'controller' => 'mail-management',
+  'action' => 'send-mail',
+  'module' => 'default',
+  'recipients' => 
+  array (
+    0 => 'asdhasjhdg',
+    1 => 'saurabh.keshri321@gmail.com',
+    2 => '',
+  ),
+  'subject' => 'testing2',
+  'mail_body' => 'bocbakbds
+asdlasdlas
+
+
+
+
+asdalsdhaskdhsa   
+
+dasdasd
+
+ddasjdhaksdh                  askdhkashdkhashdh ',
+  'auth_token' => '17bab3c39352a1b60c1246c13cb73232',
+  'user_id' => '1',
+  'email_id' => 'saurabh.keshri123@gmail.com',
+)
+2016-10-16T15:55:40-05:00 INFO (6): Mail Info obj = Application_Models_MailInfo::__set_state(array(
+   'mail_id' => NULL,
+   'source_id' => '1',
+   'parent_id' => NULL,
+   'mail_subject' => 'testing2',
+   'mail_body' => 'bocbakbds
+asdlasdlas
+
+
+
+
+asdalsdhaskdhsa   
+
+dasdasd
+
+ddasjdhaksdh                  askdhkashdkhashdh ',
+   'sent_on' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+   'is_draft' => NULL,
+   'is_reply' => NULL,
+   'is_forward' => NULL,
+))
+2016-10-16T15:55:40-05:00 INFO (6): data to be inserted = array (
+  'mail_id' => NULL,
+  'source_id' => '1',
+  'parent_id' => NULL,
+  'mail_subject' => 'testing2',
+  'mail_body' => 'bocbakbds
+asdlasdlas
+
+
+
+
+asdalsdhaskdhsa   
+
+dasdasd
+
+ddasjdhaksdh                  askdhkashdkhashdh ',
+  'sent_on' => '2016-10-16 15:55:40',
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+  'is_draft' => NULL,
+  'is_reply' => NULL,
+  'is_forward' => NULL,
+)
+2016-10-16T15:55:40-05:00 INFO (6): Mail Id = '4'
+2016-10-16T15:55:40-05:00 INFO (6): Recipients = 'asdhasjhdg'
+2016-10-16T15:55:40-05:00 INFO (6): User data = array (
+  'user_id' => NULL,
+  'email_id' => NULL,
+  'password' => NULL,
+  'firstname' => NULL,
+  'lastname' => NULL,
+  'auth_token' => NULL,
+  'added_on' => NULL,
+  'modified_on' => NULL,
+  'is_deleted' => NULL,
+)
+2016-10-16T15:55:40-05:00 INFO (6): Recipients = 'saurabh.keshri321@gmail.com'
+2016-10-16T15:55:40-05:00 INFO (6): User data = array (
+  'user_id' => '2',
+  'email_id' => 'saurabh.keshri321@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Vibha',
+  'lastname' => NULL,
+  'auth_token' => '011h291e98hd981hd128h',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T15:55:40-05:00 INFO (6): Mail Info obj = Application_Models_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => '4',
+   'destination_id' => NULL,
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:05:09-05:00 INFO (6): params for mail sent : array (
+  'controller' => 'mail-management',
+  'action' => 'send-mail',
+  'module' => 'default',
+  'recipients' => 
+  array (
+    0 => 'saurabh.keshri1',
+    1 => 'saurabh.keshri321@gmail.com',
+    2 => 'saurabh.keshri2',
+    3 => 'sadsadgajhg@gmail.com',
+  ),
+  'subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'auth_token' => '17bab3c39352a1b60c1246c13cb73232',
+  'user_id' => '1',
+  'email_id' => 'saurabh.keshri123@gmail.com',
+)
+2016-10-16T16:05:09-05:00 INFO (6): Mail Info obj = Application_Models_MailInfo::__set_state(array(
+   'mail_id' => NULL,
+   'source_id' => '1',
+   'parent_id' => NULL,
+   'mail_subject' => 'Testing Compose Mail',
+   'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+   'sent_on' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+   'is_draft' => NULL,
+   'is_reply' => NULL,
+   'is_forward' => NULL,
+))
+2016-10-16T16:05:09-05:00 INFO (6): data to be inserted = array (
+  'mail_id' => NULL,
+  'source_id' => '1',
+  'parent_id' => NULL,
+  'mail_subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'sent_on' => '2016-10-16 16:05:09',
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+  'is_draft' => NULL,
+  'is_reply' => NULL,
+  'is_forward' => NULL,
+)
+2016-10-16T16:05:09-05:00 INFO (6): Mail Id = '5'
+2016-10-16T16:05:09-05:00 INFO (6): Recipients = 'saurabh.keshri1'
+2016-10-16T16:05:09-05:00 INFO (6): User data = array (
+  'user_id' => NULL,
+  'email_id' => NULL,
+  'password' => NULL,
+  'firstname' => NULL,
+  'lastname' => NULL,
+  'auth_token' => NULL,
+  'added_on' => NULL,
+  'modified_on' => NULL,
+  'is_deleted' => NULL,
+)
+2016-10-16T16:05:09-05:00 INFO (6): Recipients = 'saurabh.keshri321@gmail.com'
+2016-10-16T16:05:09-05:00 INFO (6): User data = array (
+  'user_id' => '2',
+  'email_id' => 'saurabh.keshri321@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Vibha',
+  'lastname' => NULL,
+  'auth_token' => '011h291e98hd981hd128h',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:05:09-05:00 INFO (6): Recipient Info obj = Application_Models_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => '5',
+   'destination_id' => '2',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:07:35-05:00 INFO (6): params for mail sent : array (
+  'controller' => 'mail-management',
+  'action' => 'send-mail',
+  'module' => 'default',
+  'recipients' => 
+  array (
+    0 => 'saurabh.keshri1',
+    1 => 'saurabh.keshri321@gmail.com',
+    2 => 'saurabh.keshri2',
+    3 => 'sadsadgajhg@gmail.com',
+  ),
+  'subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'auth_token' => '17bab3c39352a1b60c1246c13cb73232',
+  'user_id' => '1',
+  'email_id' => 'saurabh.keshri123@gmail.com',
+)
+2016-10-16T16:07:35-05:00 INFO (6): Mail Info obj = Application_Models_MailInfo::__set_state(array(
+   'mail_id' => NULL,
+   'source_id' => '1',
+   'parent_id' => NULL,
+   'mail_subject' => 'Testing Compose Mail',
+   'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+   'sent_on' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+   'is_draft' => NULL,
+   'is_reply' => NULL,
+   'is_forward' => NULL,
+))
+2016-10-16T16:07:35-05:00 INFO (6): data to be inserted = array (
+  'mail_id' => NULL,
+  'source_id' => '1',
+  'parent_id' => NULL,
+  'mail_subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'sent_on' => '2016-10-16 16:07:35',
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+  'is_draft' => NULL,
+  'is_reply' => NULL,
+  'is_forward' => NULL,
+)
+2016-10-16T16:07:35-05:00 INFO (6): Mail Id = '6'
+2016-10-16T16:07:35-05:00 INFO (6): Recipients = 'saurabh.keshri1'
+2016-10-16T16:07:35-05:00 INFO (6): User data = array (
+  'user_id' => NULL,
+  'email_id' => NULL,
+  'password' => NULL,
+  'firstname' => NULL,
+  'lastname' => NULL,
+  'auth_token' => NULL,
+  'added_on' => NULL,
+  'modified_on' => NULL,
+  'is_deleted' => NULL,
+)
+2016-10-16T16:07:35-05:00 INFO (6): Recipients = 'saurabh.keshri321@gmail.com'
+2016-10-16T16:07:35-05:00 INFO (6): User data = array (
+  'user_id' => '2',
+  'email_id' => 'saurabh.keshri321@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Vibha',
+  'lastname' => NULL,
+  'auth_token' => '011h291e98hd981hd128h',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:07:35-05:00 INFO (6): Recipient Info obj = Application_Models_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => '6',
+   'destination_id' => '2',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:08:50-05:00 INFO (6): params for mail sent : array (
+  'controller' => 'mail-management',
+  'action' => 'send-mail',
+  'module' => 'default',
+  'recipients' => 
+  array (
+    0 => 'saurabh.keshri1',
+    1 => 'saurabh.keshri321@gmail.com',
+    2 => 'saurabh.keshri2',
+    3 => 'sadsadgajhg@gmail.com',
+  ),
+  'subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'auth_token' => '17bab3c39352a1b60c1246c13cb73232',
+  'user_id' => '1',
+  'email_id' => 'saurabh.keshri123@gmail.com',
+)
+2016-10-16T16:08:50-05:00 INFO (6): Mail Info obj = Application_Models_MailInfo::__set_state(array(
+   'mail_id' => NULL,
+   'source_id' => '1',
+   'parent_id' => NULL,
+   'mail_subject' => 'Testing Compose Mail',
+   'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+   'sent_on' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+   'is_draft' => NULL,
+   'is_reply' => NULL,
+   'is_forward' => NULL,
+))
+2016-10-16T16:08:50-05:00 INFO (6): data to be inserted = array (
+  'mail_id' => NULL,
+  'source_id' => '1',
+  'parent_id' => NULL,
+  'mail_subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'sent_on' => '2016-10-16 16:08:50',
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+  'is_draft' => NULL,
+  'is_reply' => NULL,
+  'is_forward' => NULL,
+)
+2016-10-16T16:08:50-05:00 INFO (6): Mail Id = '7'
+2016-10-16T16:08:50-05:00 INFO (6): Recipients = 'saurabh.keshri1'
+2016-10-16T16:08:50-05:00 INFO (6): User data = array (
+  'user_id' => NULL,
+  'email_id' => NULL,
+  'password' => NULL,
+  'firstname' => NULL,
+  'lastname' => NULL,
+  'auth_token' => NULL,
+  'added_on' => NULL,
+  'modified_on' => NULL,
+  'is_deleted' => NULL,
+)
+2016-10-16T16:08:50-05:00 INFO (6): Recipients = 'saurabh.keshri321@gmail.com'
+2016-10-16T16:08:50-05:00 INFO (6): User data = array (
+  'user_id' => '2',
+  'email_id' => 'saurabh.keshri321@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Vibha',
+  'lastname' => NULL,
+  'auth_token' => '011h291e98hd981hd128h',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:08:50-05:00 INFO (6): Recipient Info obj = Application_Models_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => '7',
+   'destination_id' => '2',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:09:59-05:00 INFO (6): params for mail sent : array (
+  'controller' => 'mail-management',
+  'action' => 'send-mail',
+  'module' => 'default',
+  'recipients' => 
+  array (
+    0 => 'saurabh.keshri1',
+    1 => 'saurabh.keshri321@gmail.com',
+    2 => 'saurabh.keshri2',
+    3 => 'sadsadgajhg@gmail.com',
+  ),
+  'subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'auth_token' => '17bab3c39352a1b60c1246c13cb73232',
+  'user_id' => '1',
+  'email_id' => 'saurabh.keshri123@gmail.com',
+)
+2016-10-16T16:09:59-05:00 INFO (6): Mail Info obj = Application_Models_MailInfo::__set_state(array(
+   'mail_id' => NULL,
+   'source_id' => '1',
+   'parent_id' => NULL,
+   'mail_subject' => 'Testing Compose Mail',
+   'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+   'sent_on' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+   'is_draft' => NULL,
+   'is_reply' => NULL,
+   'is_forward' => NULL,
+))
+2016-10-16T16:09:59-05:00 INFO (6): data to be inserted = array (
+  'mail_id' => NULL,
+  'source_id' => '1',
+  'parent_id' => NULL,
+  'mail_subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'sent_on' => '2016-10-16 16:09:59',
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+  'is_draft' => NULL,
+  'is_reply' => NULL,
+  'is_forward' => NULL,
+)
+2016-10-16T16:09:59-05:00 INFO (6): Mail Id = '8'
+2016-10-16T16:09:59-05:00 INFO (6): Recipients = 'saurabh.keshri1'
+2016-10-16T16:09:59-05:00 INFO (6): User data = array (
+  'user_id' => NULL,
+  'email_id' => NULL,
+  'password' => NULL,
+  'firstname' => NULL,
+  'lastname' => NULL,
+  'auth_token' => NULL,
+  'added_on' => NULL,
+  'modified_on' => NULL,
+  'is_deleted' => NULL,
+)
+2016-10-16T16:09:59-05:00 INFO (6): Recipients = 'saurabh.keshri321@gmail.com'
+2016-10-16T16:09:59-05:00 INFO (6): User data = array (
+  'user_id' => '2',
+  'email_id' => 'saurabh.keshri321@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Vibha',
+  'lastname' => NULL,
+  'auth_token' => '011h291e98hd981hd128h',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:09:59-05:00 INFO (6): Recipient Info obj = Application_Models_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => '8',
+   'destination_id' => '2',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:15:01-05:00 INFO (6): params for mail sent : array (
+  'controller' => 'mail-management',
+  'action' => 'send-mail',
+  'module' => 'default',
+  'recipients' => 
+  array (
+    0 => 'saurabh.keshri1',
+    1 => 'saurabh.keshri321@gmail.com',
+    2 => 'saurabh.keshri2',
+    3 => 'sadsadgajhg@gmail.com',
+  ),
+  'subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'auth_token' => '17bab3c39352a1b60c1246c13cb73232',
+  'user_id' => '1',
+  'email_id' => 'saurabh.keshri123@gmail.com',
+)
+2016-10-16T16:15:01-05:00 INFO (6): Mail Info obj = Application_Model_MailInfo::__set_state(array(
+   'mail_id' => NULL,
+   'source_id' => '1',
+   'parent_id' => NULL,
+   'mail_subject' => 'Testing Compose Mail',
+   'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+   'sent_on' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+   'is_draft' => NULL,
+   'is_reply' => NULL,
+   'is_forward' => NULL,
+))
+2016-10-16T16:15:01-05:00 INFO (6): data to be inserted = array (
+  'mail_id' => NULL,
+  'source_id' => '1',
+  'parent_id' => NULL,
+  'mail_subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'sent_on' => '2016-10-16 16:15:01',
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+  'is_draft' => NULL,
+  'is_reply' => NULL,
+  'is_forward' => NULL,
+)
+2016-10-16T16:15:01-05:00 INFO (6): Mail Id = '9'
+2016-10-16T16:15:01-05:00 INFO (6): Recipients = 'saurabh.keshri1'
+2016-10-16T16:15:01-05:00 INFO (6): User data = array (
+  'user_id' => NULL,
+  'email_id' => NULL,
+  'password' => NULL,
+  'firstname' => NULL,
+  'lastname' => NULL,
+  'auth_token' => NULL,
+  'added_on' => NULL,
+  'modified_on' => NULL,
+  'is_deleted' => NULL,
+)
+2016-10-16T16:15:01-05:00 INFO (6): Recipients = 'saurabh.keshri321@gmail.com'
+2016-10-16T16:15:01-05:00 INFO (6): User data = array (
+  'user_id' => '2',
+  'email_id' => 'saurabh.keshri321@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Vibha',
+  'lastname' => NULL,
+  'auth_token' => '011h291e98hd981hd128h',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:15:01-05:00 INFO (6): Recipient Info obj = Application_Model_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => '9',
+   'destination_id' => '2',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:17:35-05:00 INFO (6): params for mail sent : array (
+  'controller' => 'mail-management',
+  'action' => 'send-mail',
+  'module' => 'default',
+  'recipients' => 
+  array (
+    0 => 'saurabh.keshri1',
+    1 => 'saurabh.keshri321@gmail.com',
+    2 => 'saurabh.keshri2',
+    3 => 'sadsadgajhg@gmail.com',
+  ),
+  'subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'auth_token' => '17bab3c39352a1b60c1246c13cb73232',
+  'user_id' => '1',
+  'email_id' => 'saurabh.keshri123@gmail.com',
+)
+2016-10-16T16:17:35-05:00 INFO (6): Mail Info obj = Application_Model_MailInfo::__set_state(array(
+   'mail_id' => NULL,
+   'source_id' => '1',
+   'parent_id' => NULL,
+   'mail_subject' => 'Testing Compose Mail',
+   'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+   'sent_on' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+   'is_draft' => NULL,
+   'is_reply' => NULL,
+   'is_forward' => NULL,
+))
+2016-10-16T16:17:35-05:00 INFO (6): data to be inserted = array (
+  'mail_id' => NULL,
+  'source_id' => '1',
+  'parent_id' => NULL,
+  'mail_subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'sent_on' => '2016-10-16 16:17:35',
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+  'is_draft' => NULL,
+  'is_reply' => NULL,
+  'is_forward' => NULL,
+)
+2016-10-16T16:17:35-05:00 INFO (6): Mail Id = '10'
+2016-10-16T16:17:35-05:00 INFO (6): Recipients = 'saurabh.keshri1'
+2016-10-16T16:17:35-05:00 INFO (6): User data = array (
+  'user_id' => NULL,
+  'email_id' => NULL,
+  'password' => NULL,
+  'firstname' => NULL,
+  'lastname' => NULL,
+  'auth_token' => NULL,
+  'added_on' => NULL,
+  'modified_on' => NULL,
+  'is_deleted' => NULL,
+)
+2016-10-16T16:17:35-05:00 INFO (6): Recipients = 'saurabh.keshri321@gmail.com'
+2016-10-16T16:17:35-05:00 INFO (6): User data = array (
+  'user_id' => '2',
+  'email_id' => 'saurabh.keshri321@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Vibha',
+  'lastname' => NULL,
+  'auth_token' => '011h291e98hd981hd128h',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:17:35-05:00 INFO (6): Recipient Info obj = Application_Model_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => '10',
+   'destination_id' => '2',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:20:32-05:00 INFO (6): params for mail sent : array (
+  'controller' => 'mail-management',
+  'action' => 'send-mail',
+  'module' => 'default',
+  'recipients' => 
+  array (
+    0 => 'saurabh.keshri1',
+    1 => 'saurabh.keshri321@gmail.com',
+    2 => 'saurabh.keshri2',
+    3 => 'sadsadgajhg@gmail.com',
+  ),
+  'subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'auth_token' => '17bab3c39352a1b60c1246c13cb73232',
+  'user_id' => '1',
+  'email_id' => 'saurabh.keshri123@gmail.com',
+)
+2016-10-16T16:20:32-05:00 INFO (6): Mail Info obj = Application_Model_MailInfo::__set_state(array(
+   'mail_id' => NULL,
+   'source_id' => '1',
+   'parent_id' => NULL,
+   'mail_subject' => 'Testing Compose Mail',
+   'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+   'sent_on' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+   'is_draft' => NULL,
+   'is_reply' => NULL,
+   'is_forward' => NULL,
+))
+2016-10-16T16:20:32-05:00 INFO (6): data to be inserted = array (
+  'mail_id' => NULL,
+  'source_id' => '1',
+  'parent_id' => NULL,
+  'mail_subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'sent_on' => '2016-10-16 16:20:32',
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+  'is_draft' => NULL,
+  'is_reply' => NULL,
+  'is_forward' => NULL,
+)
+2016-10-16T16:20:32-05:00 INFO (6): Mail Id = '11'
+2016-10-16T16:20:32-05:00 INFO (6): Recipients = 'saurabh.keshri1'
+2016-10-16T16:20:32-05:00 INFO (6): User data = array (
+  'user_id' => NULL,
+  'email_id' => NULL,
+  'password' => NULL,
+  'firstname' => NULL,
+  'lastname' => NULL,
+  'auth_token' => NULL,
+  'added_on' => NULL,
+  'modified_on' => NULL,
+  'is_deleted' => NULL,
+)
+2016-10-16T16:20:32-05:00 INFO (6): Recipients = 'saurabh.keshri321@gmail.com'
+2016-10-16T16:20:32-05:00 INFO (6): User data = array (
+  'user_id' => '2',
+  'email_id' => 'saurabh.keshri321@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Vibha',
+  'lastname' => NULL,
+  'auth_token' => '011h291e98hd981hd128h',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:20:32-05:00 INFO (6): Recipient Info obj = Application_Model_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => '11',
+   'destination_id' => '2',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:20:32-05:00 INFO (6): data to be inserted/updated = array (
+  'id' => NULL,
+  'mail_id' => '11',
+  'destination_id' => '2',
+  'recieved_on' => '2016-10-16 16:20:32',
+  'is_read' => NULL,
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+)
+2016-10-16T16:20:32-05:00 INFO (6): Recipients = 'saurabh.keshri2'
+2016-10-16T16:20:32-05:00 INFO (6): User data = array (
+  'user_id' => NULL,
+  'email_id' => NULL,
+  'password' => NULL,
+  'firstname' => NULL,
+  'lastname' => NULL,
+  'auth_token' => NULL,
+  'added_on' => NULL,
+  'modified_on' => NULL,
+  'is_deleted' => NULL,
+)
+2016-10-16T16:20:32-05:00 INFO (6): Recipients = 'sadsadgajhg@gmail.com'
+2016-10-16T16:20:32-05:00 INFO (6): User data = array (
+  'user_id' => NULL,
+  'email_id' => NULL,
+  'password' => NULL,
+  'firstname' => NULL,
+  'lastname' => NULL,
+  'auth_token' => NULL,
+  'added_on' => NULL,
+  'modified_on' => NULL,
+  'is_deleted' => NULL,
+)
+2016-10-16T16:22:58-05:00 INFO (6): params for mail sent : array (
+  'controller' => 'mail-management',
+  'action' => 'send-mail',
+  'module' => 'default',
+  'recipients' => 
+  array (
+    0 => 'saurabh.keshri1@gmail.com',
+    1 => 'saurabh.keshri321@gmail.com',
+    2 => 'saurabh.keshri2@gmail.com',
+    3 => 'sadsadgajhg@gmail.com',
+  ),
+  'subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'auth_token' => '17bab3c39352a1b60c1246c13cb73232',
+  'user_id' => '1',
+  'email_id' => 'saurabh.keshri123@gmail.com',
+)
+2016-10-16T16:22:58-05:00 INFO (6): Mail Info obj = Application_Model_MailInfo::__set_state(array(
+   'mail_id' => NULL,
+   'source_id' => '1',
+   'parent_id' => NULL,
+   'mail_subject' => 'Testing Compose Mail',
+   'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+   'sent_on' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+   'is_draft' => NULL,
+   'is_reply' => NULL,
+   'is_forward' => NULL,
+))
+2016-10-16T16:22:58-05:00 INFO (6): data to be inserted = array (
+  'mail_id' => NULL,
+  'source_id' => '1',
+  'parent_id' => NULL,
+  'mail_subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'sent_on' => '2016-10-16 16:22:58',
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+  'is_draft' => NULL,
+  'is_reply' => NULL,
+  'is_forward' => NULL,
+)
+2016-10-16T16:22:58-05:00 INFO (6): Mail Id = '12'
+2016-10-16T16:22:58-05:00 INFO (6): Recipients = 'saurabh.keshri1@gmail.com'
+2016-10-16T16:22:58-05:00 INFO (6): User data = array (
+  'user_id' => '3',
+  'email_id' => 'saurabh.keshri1@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Saurabh1',
+  'lastname' => NULL,
+  'auth_token' => '',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:22:58-05:00 INFO (6): Recipient Info obj = Application_Model_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => '12',
+   'destination_id' => '3',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:22:58-05:00 INFO (6): data to be inserted/updated = array (
+  'id' => NULL,
+  'mail_id' => '12',
+  'destination_id' => '3',
+  'recieved_on' => '2016-10-16 16:22:58',
+  'is_read' => NULL,
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+)
+2016-10-16T16:26:07-05:00 INFO (6): params for mail sent : array (
+  'controller' => 'mail-management',
+  'action' => 'send-mail',
+  'module' => 'default',
+  'recipients' => 
+  array (
+    0 => 'saurabh.keshri1@gmail.com',
+    1 => 'saurabh.keshri321@gmail.com',
+    2 => 'saurabh.keshri2@gmail.com',
+    3 => 'sadsadgajhg@gmail.com',
+  ),
+  'subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'auth_token' => '17bab3c39352a1b60c1246c13cb73232',
+  'user_id' => '1',
+  'email_id' => 'saurabh.keshri123@gmail.com',
+)
+2016-10-16T16:26:07-05:00 INFO (6): Mail Info obj = Application_Model_MailInfo::__set_state(array(
+   'mail_id' => NULL,
+   'source_id' => '1',
+   'parent_id' => NULL,
+   'mail_subject' => 'Testing Compose Mail',
+   'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+   'sent_on' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+   'is_draft' => NULL,
+   'is_reply' => NULL,
+   'is_forward' => NULL,
+))
+2016-10-16T16:26:07-05:00 INFO (6): data to be inserted = array (
+  'mail_id' => NULL,
+  'source_id' => '1',
+  'parent_id' => NULL,
+  'mail_subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'sent_on' => '2016-10-16 16:26:07',
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+  'is_draft' => NULL,
+  'is_reply' => NULL,
+  'is_forward' => NULL,
+)
+2016-10-16T16:26:07-05:00 INFO (6): Mail Id = '13'
+2016-10-16T16:26:07-05:00 INFO (6): Recipients = 'saurabh.keshri1@gmail.com'
+2016-10-16T16:26:07-05:00 INFO (6): User data = array (
+  'user_id' => '3',
+  'email_id' => 'saurabh.keshri1@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Saurabh1',
+  'lastname' => NULL,
+  'auth_token' => '',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:26:07-05:00 INFO (6): Recipient Info obj = Application_Model_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => '13',
+   'destination_id' => '3',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:26:07-05:00 INFO (6): data to be inserted/updated = array (
+  'id' => NULL,
+  'mail_id' => '13',
+  'destination_id' => '3',
+  'recieved_on' => '2016-10-16 16:26:07',
+  'is_read' => NULL,
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+)
+2016-10-16T16:27:50-05:00 INFO (6): params for mail sent : array (
+  'controller' => 'mail-management',
+  'action' => 'send-mail',
+  'module' => 'default',
+  'recipients' => 
+  array (
+    0 => 'saurabh.keshri321@gmail.com',
+    1 => 'saurabh.keshri1@gmail.com',
+    2 => 'saurabh.keshri2@gmail.com',
+    3 => 'sadsadgajhg@gmail.com',
+  ),
+  'subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'auth_token' => '17bab3c39352a1b60c1246c13cb73232',
+  'user_id' => '1',
+  'email_id' => 'saurabh.keshri123@gmail.com',
+)
+2016-10-16T16:27:50-05:00 INFO (6): Mail Info obj = Application_Model_MailInfo::__set_state(array(
+   'mail_id' => NULL,
+   'source_id' => '1',
+   'parent_id' => NULL,
+   'mail_subject' => 'Testing Compose Mail',
+   'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+   'sent_on' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+   'is_draft' => NULL,
+   'is_reply' => NULL,
+   'is_forward' => NULL,
+))
+2016-10-16T16:27:50-05:00 INFO (6): data to be inserted = array (
+  'mail_id' => NULL,
+  'source_id' => '1',
+  'parent_id' => NULL,
+  'mail_subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'sent_on' => '2016-10-16 16:27:50',
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+  'is_draft' => NULL,
+  'is_reply' => NULL,
+  'is_forward' => NULL,
+)
+2016-10-16T16:27:50-05:00 INFO (6): Mail Id = '14'
+2016-10-16T16:27:50-05:00 INFO (6): Recipients = 'saurabh.keshri321@gmail.com'
+2016-10-16T16:27:50-05:00 INFO (6): User data = array (
+  'user_id' => '2',
+  'email_id' => 'saurabh.keshri321@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Vibha',
+  'lastname' => NULL,
+  'auth_token' => '011h291e98hd981hd128h',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:27:50-05:00 INFO (6): Recipient Info obj = Application_Model_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => '14',
+   'destination_id' => '2',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:27:50-05:00 INFO (6): data to be inserted = array (
+  'id' => NULL,
+  'mail_id' => '14',
+  'destination_id' => '2',
+  'recieved_on' => '2016-10-16 16:27:50',
+  'is_read' => NULL,
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+)
+2016-10-16T16:30:26-05:00 INFO (6): params for mail sent : array (
+  'controller' => 'mail-management',
+  'action' => 'send-mail',
+  'module' => 'default',
+  'recipients' => 
+  array (
+    0 => 'saurabh.keshri321@gmail.com',
+    1 => 'saurabh.keshri1@gmail.com',
+    2 => 'saurabh.keshri2@gmail.com',
+    3 => 'sadsadgajhg@gmail.com',
+  ),
+  'subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'auth_token' => '17bab3c39352a1b60c1246c13cb73232',
+  'user_id' => '1',
+  'email_id' => 'saurabh.keshri123@gmail.com',
+)
+2016-10-16T16:30:26-05:00 INFO (6): Mail Info obj = Application_Model_MailInfo::__set_state(array(
+   'mail_id' => NULL,
+   'source_id' => '1',
+   'parent_id' => NULL,
+   'mail_subject' => 'Testing Compose Mail',
+   'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+   'sent_on' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+   'is_draft' => NULL,
+   'is_reply' => NULL,
+   'is_forward' => NULL,
+))
+2016-10-16T16:30:26-05:00 INFO (6): data to be inserted = array (
+  'mail_id' => NULL,
+  'source_id' => '1',
+  'parent_id' => NULL,
+  'mail_subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'sent_on' => '2016-10-16 16:30:26',
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+  'is_draft' => NULL,
+  'is_reply' => NULL,
+  'is_forward' => NULL,
+)
+2016-10-16T16:30:26-05:00 INFO (6): Mail Id = '15'
+2016-10-16T16:30:26-05:00 INFO (6): Recipients = 'saurabh.keshri321@gmail.com'
+2016-10-16T16:30:26-05:00 INFO (6): User data = array (
+  'user_id' => '2',
+  'email_id' => 'saurabh.keshri321@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Vibha',
+  'lastname' => NULL,
+  'auth_token' => '011h291e98hd981hd128h',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:30:26-05:00 INFO (6): Recipient Info obj = Application_Model_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => '15',
+   'destination_id' => '2',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:30:26-05:00 INFO (6): data to be inserted = array (
+  'id' => NULL,
+  'mail_id' => '15',
+  'destination_id' => '2',
+  'recieved_on' => '2016-10-16 16:30:26',
+  'is_read' => NULL,
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+)
+2016-10-16T16:30:26-05:00 INFO (6): Status = '0'
+2016-10-16T16:30:26-05:00 INFO (6): Recipients = 'saurabh.keshri1@gmail.com'
+2016-10-16T16:30:26-05:00 INFO (6): User data = array (
+  'user_id' => '3',
+  'email_id' => 'saurabh.keshri1@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Saurabh1',
+  'lastname' => NULL,
+  'auth_token' => '',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:30:26-05:00 INFO (6): Recipient Info obj = Application_Model_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => '15',
+   'destination_id' => '3',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:30:26-05:00 INFO (6): data to be inserted = array (
+  'id' => NULL,
+  'mail_id' => '15',
+  'destination_id' => '3',
+  'recieved_on' => '2016-10-16 16:30:26',
+  'is_read' => NULL,
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+)
+2016-10-16T16:31:25-05:00 INFO (6): params for mail sent : array (
+  'controller' => 'mail-management',
+  'action' => 'send-mail',
+  'module' => 'default',
+  'recipients' => 
+  array (
+    0 => 'saurabh.keshri321@gmail.com',
+    1 => 'saurabh.keshri1@gmail.com',
+    2 => 'saurabh.keshri2@gmail.com',
+    3 => 'sadsadgajhg@gmail.com',
+  ),
+  'subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'auth_token' => '17bab3c39352a1b60c1246c13cb73232',
+  'user_id' => '1',
+  'email_id' => 'saurabh.keshri123@gmail.com',
+)
+2016-10-16T16:31:25-05:00 INFO (6): Mail Info obj = Application_Model_MailInfo::__set_state(array(
+   'mail_id' => NULL,
+   'source_id' => '1',
+   'parent_id' => NULL,
+   'mail_subject' => 'Testing Compose Mail',
+   'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+   'sent_on' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+   'is_draft' => NULL,
+   'is_reply' => NULL,
+   'is_forward' => NULL,
+))
+2016-10-16T16:31:25-05:00 INFO (6): data to be inserted = array (
+  'mail_id' => NULL,
+  'source_id' => '1',
+  'parent_id' => NULL,
+  'mail_subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'sent_on' => '2016-10-16 16:31:25',
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+  'is_draft' => NULL,
+  'is_reply' => NULL,
+  'is_forward' => NULL,
+)
+2016-10-16T16:31:25-05:00 INFO (6): Mail Id = '16'
+2016-10-16T16:31:25-05:00 INFO (6): Recipients = 'saurabh.keshri321@gmail.com'
+2016-10-16T16:31:25-05:00 INFO (6): User data = array (
+  'user_id' => '2',
+  'email_id' => 'saurabh.keshri321@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Vibha',
+  'lastname' => NULL,
+  'auth_token' => '011h291e98hd981hd128h',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:31:25-05:00 INFO (6): Recipient Info obj = Application_Model_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => '16',
+   'destination_id' => '2',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:31:25-05:00 INFO (6): data to be inserted = array (
+  'id' => NULL,
+  'mail_id' => '16',
+  'destination_id' => '2',
+  'recieved_on' => '2016-10-16 16:31:25',
+  'is_read' => NULL,
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+)
+2016-10-16T16:33:06-05:00 INFO (6): params for mail sent : array (
+  'controller' => 'mail-management',
+  'action' => 'send-mail',
+  'module' => 'default',
+  'recipients' => 
+  array (
+    0 => 'saurabh.keshri321@gmail.com',
+    1 => 'saurabh.keshri1@gmail.com',
+    2 => 'saurabh.keshri2@gmail.com',
+    3 => 'sadsadgajhg@gmail.com',
+  ),
+  'subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'auth_token' => '17bab3c39352a1b60c1246c13cb73232',
+  'user_id' => '1',
+  'email_id' => 'saurabh.keshri123@gmail.com',
+)
+2016-10-16T16:33:06-05:00 INFO (6): Mail Info obj = Application_Model_MailInfo::__set_state(array(
+   'mail_id' => NULL,
+   'source_id' => '1',
+   'parent_id' => NULL,
+   'mail_subject' => 'Testing Compose Mail',
+   'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+   'sent_on' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+   'is_draft' => NULL,
+   'is_reply' => NULL,
+   'is_forward' => NULL,
+))
+2016-10-16T16:33:06-05:00 INFO (6): data to be inserted = array (
+  'mail_id' => NULL,
+  'source_id' => '1',
+  'parent_id' => NULL,
+  'mail_subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'sent_on' => '2016-10-16 16:33:06',
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+  'is_draft' => NULL,
+  'is_reply' => NULL,
+  'is_forward' => NULL,
+)
+2016-10-16T16:33:06-05:00 INFO (6): Mail Id = '17'
+2016-10-16T16:33:06-05:00 INFO (6): Recipients = 'saurabh.keshri321@gmail.com'
+2016-10-16T16:33:06-05:00 INFO (6): User data = array (
+  'user_id' => '2',
+  'email_id' => 'saurabh.keshri321@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Vibha',
+  'lastname' => NULL,
+  'auth_token' => '011h291e98hd981hd128h',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:33:06-05:00 INFO (6): Recipient Info obj = Application_Model_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => '17',
+   'destination_id' => '2',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:33:06-05:00 INFO (6): data to be inserted = array (
+  'id' => NULL,
+  'mail_id' => '17',
+  'destination_id' => '2',
+  'recieved_on' => '2016-10-16 16:33:06',
+  'is_read' => NULL,
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+)
+2016-10-16T16:33:06-05:00 INFO (6): Status = '1'
+2016-10-16T16:33:06-05:00 INFO (6): Recipients = 'saurabh.keshri1@gmail.com'
+2016-10-16T16:33:06-05:00 INFO (6): User data = array (
+  'user_id' => '3',
+  'email_id' => 'saurabh.keshri1@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Saurabh1',
+  'lastname' => NULL,
+  'auth_token' => '',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:33:06-05:00 INFO (6): Recipient Info obj = Application_Model_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => '17',
+   'destination_id' => '3',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:33:06-05:00 INFO (6): data to be inserted = array (
+  'id' => NULL,
+  'mail_id' => '17',
+  'destination_id' => '3',
+  'recieved_on' => '2016-10-16 16:33:06',
+  'is_read' => NULL,
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+)
+2016-10-16T16:33:06-05:00 INFO (6): Status = '2'
+2016-10-16T16:33:06-05:00 INFO (6): Recipients = 'saurabh.keshri2@gmail.com'
+2016-10-16T16:33:06-05:00 INFO (6): User data = array (
+  'user_id' => '4',
+  'email_id' => 'saurabh.keshri2@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Saurabh2',
+  'lastname' => NULL,
+  'auth_token' => '',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:33:06-05:00 INFO (6): Recipient Info obj = Application_Model_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => '17',
+   'destination_id' => '4',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:33:06-05:00 INFO (6): data to be inserted = array (
+  'id' => NULL,
+  'mail_id' => '17',
+  'destination_id' => '4',
+  'recieved_on' => '2016-10-16 16:33:06',
+  'is_read' => NULL,
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+)
+2016-10-16T16:33:06-05:00 INFO (6): Status = '3'
+2016-10-16T16:33:06-05:00 INFO (6): Recipients = 'sadsadgajhg@gmail.com'
+2016-10-16T16:33:06-05:00 INFO (6): User data = array (
+  'user_id' => NULL,
+  'email_id' => NULL,
+  'password' => NULL,
+  'firstname' => NULL,
+  'lastname' => NULL,
+  'auth_token' => NULL,
+  'added_on' => NULL,
+  'modified_on' => NULL,
+  'is_deleted' => NULL,
+)
+2016-10-16T16:41:33-05:00 INFO (6): params for mail sent : array (
+  'controller' => 'mail-management',
+  'action' => 'send-mail',
+  'module' => 'default',
+  'recipients' => 
+  array (
+    0 => 'saurabh.keshri321@gmail.com',
+    1 => 'saurabh.keshri1@gmail.com',
+    2 => 'saurabh.keshri2@gmail.com',
+    3 => 'sadsadgajhg@gmail.com',
+  ),
+  'subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'auth_token' => '17bab3c39352a1b60c1246c13cb73232',
+  'user_id' => '1',
+  'email_id' => 'saurabh.keshri123@gmail.com',
+)
+2016-10-16T16:41:33-05:00 INFO (6): Mail Info obj = Application_Model_MailInfo::__set_state(array(
+   'mail_id' => NULL,
+   'source_id' => '1',
+   'parent_id' => NULL,
+   'mail_subject' => 'Testing Compose Mail',
+   'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+   'sent_on' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+   'is_draft' => NULL,
+   'is_reply' => NULL,
+   'is_forward' => NULL,
+))
+2016-10-16T16:41:33-05:00 INFO (6): data to be inserted = array (
+  'mail_id' => NULL,
+  'source_id' => '1',
+  'parent_id' => NULL,
+  'mail_subject' => 'Testing Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'sent_on' => '2016-10-16 16:41:33',
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+  'is_draft' => NULL,
+  'is_reply' => NULL,
+  'is_forward' => NULL,
+)
+2016-10-16T16:41:33-05:00 INFO (6): Mail Id = 0
+2016-10-16T16:41:33-05:00 INFO (6): Recipients = 'saurabh.keshri321@gmail.com'
+2016-10-16T16:41:33-05:00 INFO (6): User data = array (
+  'user_id' => '2',
+  'email_id' => 'saurabh.keshri321@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Vibha',
+  'lastname' => NULL,
+  'auth_token' => '011h291e98hd981hd128h',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:41:33-05:00 INFO (6): Recipient Info obj = Application_Model_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => NULL,
+   'destination_id' => '2',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:41:33-05:00 INFO (6): data to be inserted = array (
+  'id' => NULL,
+  'mail_id' => NULL,
+  'destination_id' => '2',
+  'recieved_on' => '2016-10-16 16:41:33',
+  'is_read' => NULL,
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+)
+2016-10-16T16:43:56-05:00 INFO (6): params for mail sent : array (
+  'controller' => 'mail-management',
+  'action' => 'send-mail',
+  'module' => 'default',
+  'recipients' => 
+  array (
+    0 => 'saurabh.keshri321@gmail.com',
+    1 => 'saurabh.keshri1@gmail.com',
+    2 => 'saurabh.keshri2@gmail.com',
+    3 => 'sadsadgajhg@gmail.com',
+  ),
+  'subject' => 'Testing2 Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'auth_token' => '17bab3c39352a1b60c1246c13cb73232',
+  'user_id' => '1',
+  'email_id' => 'saurabh.keshri123@gmail.com',
+)
+2016-10-16T16:43:56-05:00 INFO (6): Mail Info obj = Application_Model_MailInfo::__set_state(array(
+   'mail_id' => NULL,
+   'source_id' => '1',
+   'parent_id' => NULL,
+   'mail_subject' => 'Testing2 Compose Mail',
+   'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+   'sent_on' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+   'is_draft' => NULL,
+   'is_reply' => NULL,
+   'is_forward' => NULL,
+))
+2016-10-16T16:43:56-05:00 INFO (6): data to be inserted = array (
+  'mail_id' => NULL,
+  'source_id' => '1',
+  'parent_id' => NULL,
+  'mail_subject' => 'Testing2 Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'sent_on' => '2016-10-16 16:43:56',
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+  'is_draft' => NULL,
+  'is_reply' => NULL,
+  'is_forward' => NULL,
+)
+2016-10-16T16:43:56-05:00 INFO (6): Mail Id = 0
+2016-10-16T16:43:56-05:00 INFO (6): Recipients = 'saurabh.keshri321@gmail.com'
+2016-10-16T16:43:56-05:00 INFO (6): User data = array (
+  'user_id' => '2',
+  'email_id' => 'saurabh.keshri321@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Vibha',
+  'lastname' => NULL,
+  'auth_token' => '011h291e98hd981hd128h',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:43:56-05:00 INFO (6): Recipient Info obj = Application_Model_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => NULL,
+   'destination_id' => '2',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:43:56-05:00 INFO (6): data to be inserted = array (
+  'id' => NULL,
+  'mail_id' => NULL,
+  'destination_id' => '2',
+  'recieved_on' => '2016-10-16 16:43:56',
+  'is_read' => NULL,
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+)
+2016-10-16T16:45:37-05:00 INFO (6): params for mail sent : array (
+  'controller' => 'mail-management',
+  'action' => 'send-mail',
+  'module' => 'default',
+  'recipients' => 
+  array (
+    0 => 'saurabh.keshri321@gmail.com',
+    1 => 'saurabh.keshri1@gmail.com',
+    2 => 'saurabh.keshri2@gmail.com',
+    3 => 'sadsadgajhg@gmail.com',
+  ),
+  'subject' => 'Testing2 Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'auth_token' => '17bab3c39352a1b60c1246c13cb73232',
+  'user_id' => '1',
+  'email_id' => 'saurabh.keshri123@gmail.com',
+)
+2016-10-16T16:45:37-05:00 INFO (6): Mail Info obj = Application_Model_MailInfo::__set_state(array(
+   'mail_id' => NULL,
+   'source_id' => '1',
+   'parent_id' => NULL,
+   'mail_subject' => 'Testing2 Compose Mail',
+   'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+   'sent_on' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+   'is_draft' => NULL,
+   'is_reply' => NULL,
+   'is_forward' => NULL,
+))
+2016-10-16T16:45:37-05:00 INFO (6): data to be inserted = array (
+  'mail_id' => NULL,
+  'source_id' => '1',
+  'parent_id' => NULL,
+  'mail_subject' => 'Testing2 Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'sent_on' => '2016-10-16 16:45:37',
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+  'is_draft' => NULL,
+  'is_reply' => NULL,
+  'is_forward' => NULL,
+)
+2016-10-16T16:45:37-05:00 INFO (6): Mail Id = '20'
+2016-10-16T16:45:37-05:00 INFO (6): Recipients = 'saurabh.keshri321@gmail.com'
+2016-10-16T16:45:37-05:00 INFO (6): User data = array (
+  'user_id' => '2',
+  'email_id' => 'saurabh.keshri321@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Vibha',
+  'lastname' => NULL,
+  'auth_token' => '011h291e98hd981hd128h',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:45:37-05:00 INFO (6): Recipient Info obj = Application_Model_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => '20',
+   'destination_id' => '2',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:45:37-05:00 INFO (6): data to be inserted = array (
+  'id' => NULL,
+  'mail_id' => '20',
+  'destination_id' => '2',
+  'recieved_on' => '2016-10-16 16:45:37',
+  'is_read' => NULL,
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+)
+2016-10-16T16:45:37-05:00 INFO (6): Status = '4'
+2016-10-16T16:45:37-05:00 INFO (6): Recipients = 'saurabh.keshri1@gmail.com'
+2016-10-16T16:45:37-05:00 INFO (6): User data = array (
+  'user_id' => '3',
+  'email_id' => 'saurabh.keshri1@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Saurabh1',
+  'lastname' => NULL,
+  'auth_token' => '',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:45:37-05:00 INFO (6): Recipient Info obj = Application_Model_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => '20',
+   'destination_id' => '3',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:45:37-05:00 INFO (6): data to be inserted = array (
+  'id' => NULL,
+  'mail_id' => '20',
+  'destination_id' => '3',
+  'recieved_on' => '2016-10-16 16:45:37',
+  'is_read' => NULL,
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+)
+2016-10-16T16:45:37-05:00 INFO (6): Status = '5'
+2016-10-16T16:45:37-05:00 INFO (6): Recipients = 'saurabh.keshri2@gmail.com'
+2016-10-16T16:45:37-05:00 INFO (6): User data = array (
+  'user_id' => '4',
+  'email_id' => 'saurabh.keshri2@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Saurabh2',
+  'lastname' => NULL,
+  'auth_token' => '',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:45:37-05:00 INFO (6): Recipient Info obj = Application_Model_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => '20',
+   'destination_id' => '4',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:45:37-05:00 INFO (6): data to be inserted = array (
+  'id' => NULL,
+  'mail_id' => '20',
+  'destination_id' => '4',
+  'recieved_on' => '2016-10-16 16:45:37',
+  'is_read' => NULL,
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+)
+2016-10-16T16:45:37-05:00 INFO (6): Status = '6'
+2016-10-16T16:45:37-05:00 INFO (6): Recipients = 'sadsadgajhg@gmail.com'
+2016-10-16T16:45:37-05:00 INFO (6): User data = array (
+  'user_id' => NULL,
+  'email_id' => NULL,
+  'password' => NULL,
+  'firstname' => NULL,
+  'lastname' => NULL,
+  'auth_token' => NULL,
+  'added_on' => NULL,
+  'modified_on' => NULL,
+  'is_deleted' => NULL,
+)
+2016-10-16T16:46:36-05:00 INFO (6): params for mail sent : array (
+  'controller' => 'mail-management',
+  'action' => 'send-mail',
+  'module' => 'default',
+  'recipients' => 
+  array (
+    0 => 'saurabh.keshri321@gmail.com',
+    1 => 'saurabh.keshri1@gmail.com',
+    2 => 'saurabh.keshri2@gmail.com',
+    3 => 'sadsadgajhg@gmail.com',
+  ),
+  'subject' => 'Testing2 Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'auth_token' => '17bab3c39352a1b60c1246c13cb73232',
+  'user_id' => '1',
+  'email_id' => 'saurabh.keshri123@gmail.com',
+)
+2016-10-16T16:46:36-05:00 INFO (6): Mail Info obj = Application_Model_MailInfo::__set_state(array(
+   'mail_id' => NULL,
+   'source_id' => '1',
+   'parent_id' => NULL,
+   'mail_subject' => 'Testing2 Compose Mail',
+   'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+   'sent_on' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+   'is_draft' => NULL,
+   'is_reply' => NULL,
+   'is_forward' => NULL,
+))
+2016-10-16T16:46:36-05:00 INFO (6): data to be inserted = array (
+  'mail_id' => NULL,
+  'source_id' => '1',
+  'parent_id' => NULL,
+  'mail_subject' => 'Testing2 Compose Mail',
+  'mail_body' => 'Hi Saurabh ,
+                    Type in  different format to check this text box .
+
+Check the way it is stored in db and the space it takes. Check if the format is same while 
+fetching and displaying from db.
+
+
+
+Regards,
+Saurabh Keshri',
+  'sent_on' => '2016-10-16 16:46:36',
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+  'is_draft' => NULL,
+  'is_reply' => NULL,
+  'is_forward' => NULL,
+)
+2016-10-16T16:46:36-05:00 INFO (6): Status recipients db insert = '21'
+2016-10-16T16:46:36-05:00 INFO (6): Mail Id = '21'
+2016-10-16T16:46:36-05:00 INFO (6): Recipients = 'saurabh.keshri321@gmail.com'
+2016-10-16T16:46:36-05:00 INFO (6): User data = array (
+  'user_id' => '2',
+  'email_id' => 'saurabh.keshri321@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Vibha',
+  'lastname' => NULL,
+  'auth_token' => '011h291e98hd981hd128h',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:46:36-05:00 INFO (6): Recipient Info obj = Application_Model_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => '21',
+   'destination_id' => '2',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:46:36-05:00 INFO (6): data to be inserted = array (
+  'id' => NULL,
+  'mail_id' => '21',
+  'destination_id' => '2',
+  'recieved_on' => '2016-10-16 16:46:36',
+  'is_read' => NULL,
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+)
+2016-10-16T16:46:36-05:00 INFO (6): Status = '7'
+2016-10-16T16:46:36-05:00 INFO (6): Recipients = 'saurabh.keshri1@gmail.com'
+2016-10-16T16:46:36-05:00 INFO (6): User data = array (
+  'user_id' => '3',
+  'email_id' => 'saurabh.keshri1@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Saurabh1',
+  'lastname' => NULL,
+  'auth_token' => '',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:46:36-05:00 INFO (6): Recipient Info obj = Application_Model_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => '21',
+   'destination_id' => '3',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:46:36-05:00 INFO (6): data to be inserted = array (
+  'id' => NULL,
+  'mail_id' => '21',
+  'destination_id' => '3',
+  'recieved_on' => '2016-10-16 16:46:36',
+  'is_read' => NULL,
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+)
+2016-10-16T16:46:36-05:00 INFO (6): Status = '8'
+2016-10-16T16:46:36-05:00 INFO (6): Recipients = 'saurabh.keshri2@gmail.com'
+2016-10-16T16:46:36-05:00 INFO (6): User data = array (
+  'user_id' => '4',
+  'email_id' => 'saurabh.keshri2@gmail.com',
+  'password' => 'dGVzdDMyMQ==',
+  'firstname' => 'Saurabh2',
+  'lastname' => NULL,
+  'auth_token' => '',
+  'added_on' => '2016-10-15 10:25:08',
+  'modified_on' => '2016-10-15 10:25:08',
+  'is_deleted' => '0',
+)
+2016-10-16T16:46:36-05:00 INFO (6): Recipient Info obj = Application_Model_RecipientsInfo::__set_state(array(
+   'id' => NULL,
+   'mail_id' => '21',
+   'destination_id' => '4',
+   'recieved_on' => NULL,
+   'is_read' => NULL,
+   'is_deleted' => NULL,
+   'deleted_on' => NULL,
+))
+2016-10-16T16:46:36-05:00 INFO (6): data to be inserted = array (
+  'id' => NULL,
+  'mail_id' => '21',
+  'destination_id' => '4',
+  'recieved_on' => '2016-10-16 16:46:36',
+  'is_read' => NULL,
+  'is_deleted' => NULL,
+  'deleted_on' => NULL,
+)
+2016-10-16T16:46:36-05:00 INFO (6): Status = '9'
+2016-10-16T16:46:36-05:00 INFO (6): Recipients = 'sadsadgajhg@gmail.com'
+2016-10-16T16:46:36-05:00 INFO (6): User data = array (
+  'user_id' => NULL,
+  'email_id' => NULL,
+  'password' => NULL,
+  'firstname' => NULL,
+  'lastname' => NULL,
+  'auth_token' => NULL,
+  'added_on' => NULL,
+  'modified_on' => NULL,
+  'is_deleted' => NULL,
+)
